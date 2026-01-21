@@ -16,6 +16,7 @@ exp-groovel-title=> Groovel Studio (Prácticas)
 exp-groovel=>Compositora musical, productora de SFX y programación (FMOD, Unity C# y Studio One)
 exp-groovel-description=>Experiencia total de 3 meses a jornada completa, manteniendo relación laboral en los meses posteriores hasta el lanzamiento de Nova: The Cloudwalker's Tale, proyecto central durante las prácticas.
 exp-emdla-description=>Este fue mi primer trabajo musical en un videojuego y se publicó un EP de 4 canciones.
+exp-indra=>Ingeniera de Software ATM
 exp-music-comp=>Compositora
 exp-music-total=>Compositora y productora musical, grabación, mezcla y masterización
 exp-music-sfx-total=>Compositora y productora de SFX y música, grabación, mezcla y masterización
